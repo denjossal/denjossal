@@ -71,13 +71,14 @@
 
 <h3>My GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=denjossal&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Dennis's GitHub Stats" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denjossal&theme=dark&hide_border=true" alt="Dennis's GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denjossal&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denjossal&theme=dark" alt="Dennis's GitHub Activity" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denjossal&theme=dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denjossal&theme=dark" alt="Dennis's GitHub Stats" />
 </p>
 
 <h3>Where to find me</h3>
