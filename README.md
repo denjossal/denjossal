@@ -2,6 +2,11 @@
 
 <p>Welcome to my page! </br> I'm Dennis, Lead Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/> <b>Bogotá D.C, Colombia</b>. </p>
 
+<p><i>"Imagination is more important than knowledge. Knowledge is limited. Imagination embraces the world."</i> — Albert Einstein</p>
+
+<h3>What I'm currently working on</h3>
+<p>Building AI-powered microservices with Claude and AWS</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="AI" src="https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -80,6 +85,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denjossal&theme=dark" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denjossal&theme=dark" alt="Dennis's GitHub Stats" />
 </p>
+
+<h3>Trophies</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=denjossal&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<h3>Contribution Snake</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denjossal/denjossal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denjossal/denjossal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/denjossal/denjossal/output/github-snake-dark.svg" />
+</picture>
 
 <h3>Where to find me</h3>
 <p>
